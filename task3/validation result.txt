@@ -1,0 +1,7 @@
+xgb n_estimators=300  max_depth=6  mean:0.824888850299342    feature=46        score:0.82590855803
+SVC:                                                      mean:0.79                              feature=100       score:0.767878077374
+xgb n_estimators=300  max_depth=6  mean:0.839                            feature=80         score:0.835287221571
+xgb n_estimators=300  max_depth=6  mean:                                     feature=100       score:0.831770222743
+xgb n_estimators=400  max_depth=6  mean:0.8392034277629786  feature=100       score:0.838804220399
+xgb n_estimators=450  max_depth=6  mean:0.8422278765836572  feature=100       score:0.836459554513
+xgb n_estimators=600  max_depth=6  mean:0.8433913730999487  feature=100       score:0.833528722157
